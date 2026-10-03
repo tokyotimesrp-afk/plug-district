@@ -1,0 +1,16 @@
+{
+  "name": "plug-district-bot",
+  "version": "1.0.0",
+  "description": "Plug District Discord shop/community bot",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node deploy-commands.js",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "discord.js": "14.27.0"
+  }
+}
