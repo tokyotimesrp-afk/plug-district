@@ -1,0 +1,14 @@
+{
+  "clientId": "PASTE_APPLICATION_ID",
+  "guildId": "PASTE_SERVER_ID",
+  "brandName": "Plug District",
+  "accentColor": "#5865F2",
+  "status": "Plug District | /help",
+  "ticketCategoryId": "",
+  "supportRoleId": "",
+  "logChannelId": "",
+  "welcomeChannelId": "",
+  "vouchChannelId": "",
+  "customerRoleId": "",
+  "resellerRoleId": ""
+}
